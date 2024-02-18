@@ -1,8 +1,8 @@
 # Machine-learning-Akbank-Bootcamp
-Library Management System
+
 Things to be done for the project in bootcamp:
 
-
+Library Management System
 In this project you will be building “Library Management System” using object-oriented programming techniques. This program will use books.txt file that you will create as a database where each line will represent a single book. At each line, book name, author, release date and number of pages will be kept and separated with a comma.
 1. Create a class named “Library”:
 a. Create the constructer method to open the books.txt file, and destructor
